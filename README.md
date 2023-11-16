@@ -1,14 +1,15 @@
-<h1>AgenceX Landing page</h1>
+<h1>buil.pro Portfolio landing page</h1>
 
-A simple landing page for a digital agency
-
-![AgenceX light Theme](./screens/demoLight.webp)
 ![AgenceX Dark Theme](./screens/demoDark.webp)
 
 
 ## Tools
 - TailwindCSS v3.3
 - AstroJs v3
+- VueJs v3
+- NodeJs
+- Supabase DB
+- i18n library
 
 
 ## 🚀 Project Structure
